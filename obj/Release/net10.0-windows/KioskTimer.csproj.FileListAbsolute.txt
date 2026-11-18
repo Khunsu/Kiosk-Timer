@@ -1,0 +1,14 @@
+C:\KioskTime\bin\Release\net10.0-windows\KioskTimer.exe
+C:\KioskTime\bin\Release\net10.0-windows\KioskTimer.deps.json
+C:\KioskTime\bin\Release\net10.0-windows\KioskTimer.runtimeconfig.json
+C:\KioskTime\bin\Release\net10.0-windows\KioskTimer.dll
+C:\KioskTime\bin\Release\net10.0-windows\KioskTimer.pdb
+C:\KioskTime\obj\Release\net10.0-windows\KioskTimer.GeneratedMSBuildEditorConfig.editorconfig
+C:\KioskTime\obj\Release\net10.0-windows\KioskTimer.AssemblyInfoInputs.cache
+C:\KioskTime\obj\Release\net10.0-windows\KioskTimer.AssemblyInfo.cs
+C:\KioskTime\obj\Release\net10.0-windows\KioskTimer.csproj.CoreCompileInputs.cache
+C:\KioskTime\obj\Release\net10.0-windows\KioskTimer.dll
+C:\KioskTime\obj\Release\net10.0-windows\refint\KioskTimer.dll
+C:\KioskTime\obj\Release\net10.0-windows\KioskTimer.pdb
+C:\KioskTime\obj\Release\net10.0-windows\KioskTimer.genruntimeconfig.cache
+C:\KioskTime\obj\Release\net10.0-windows\ref\KioskTimer.dll
